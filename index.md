@@ -1,6 +1,6 @@
 ---
 title: Odoo - Reverse Proxy HowTo
-author: Antonio Espinosa
+author: Swapnil Wagh
 layout: default
 ---
 
